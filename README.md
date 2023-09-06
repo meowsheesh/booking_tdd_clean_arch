@@ -7,12 +7,15 @@
 </div>
 
 Detail:
-  go_router
-  flutter_bloc
-  retrofit
-  dio
-  equatable
-  get_it
-  freezed
-  mockito
-  mocktail
+<ul>
+    <li>go_router</li>
+    <li>flutter_bloc</li>
+    <li>retrofit</li>
+    <li>dio</li>
+    <li>equatable</li>
+    <li>get_it</li>
+    <li>Get It (Dependency Injection)</li>
+    <li>freezed</li>
+    <li>mockito</li>
+    <li>mocktail</li>
+</ul>
